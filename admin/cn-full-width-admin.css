@@ -1,0 +1,13 @@
+.block-editor .block-editor-plain-text.cn-full-width {
+	font-family: Menlo, Consolas, monaco, monospace;
+	font-size: 14px;
+	padding: .8em 1em;
+	border: 1px solid #e2e4e7;
+	border-radius: 4px;
+}
+
+@media ( min-width: 600px ) {
+	.block-editor .block-editor-plain-text.cn-full-width {
+		font-size: 13px;
+	}
+}
